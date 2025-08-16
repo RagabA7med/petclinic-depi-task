@@ -56,7 +56,6 @@ Create **DB3** on **net2**:
 docker volume create shared-data
 ```
 
-ممكن تكتب الخطوة السابعة في الـ README بشكل منسّق كده:
 
 ### 🔹 Step 7) Run the Applications
 
@@ -71,7 +70,6 @@ docker volume create shared-data
 **App3** (connects to **DB3** on **net2**):
 <img width="1193" height="181" alt="image" src="https://github.com/user-attachments/assets/ceb63f4e-5392-491c-af93-b642aeaf5dff" />
 
-ممتاز 👌 تقدر تضيف الخطوة الثامنة في الـ README كده:
 
 ### 🔹 Step 8) Connect the Networks
 
